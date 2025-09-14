@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mini-senior2"
+version = "0.0.1"
+description = "Data prep & training utilities for mini-senior2"
+authors = [{name="amineghedira87"}]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+package-dir = {"" = "."}
+packages = ["mini_senior2"]
