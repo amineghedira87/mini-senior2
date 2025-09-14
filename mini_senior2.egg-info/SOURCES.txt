@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+./mini_senior2/__init__.py
+mini_senior2.egg-info/PKG-INFO
+mini_senior2.egg-info/SOURCES.txt
+mini_senior2.egg-info/dependency_links.txt
+mini_senior2.egg-info/top_level.txt
