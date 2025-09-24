@@ -1,0 +1,4 @@
+manifests_root: /kaggle/working/mini-senior2_data/prepared/manifests
+images_root: /kaggle/working/mini-senior2_data/prepared/images/448
+outputs_dir: /kaggle/working
+hf_token: ''

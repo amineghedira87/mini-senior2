@@ -1,0 +1,15 @@
+# core
+transformers>=4.41.0
+accelerate>=0.30.0
+safetensors>=0.4.2
+huggingface_hub>=0.22.2
+
+# vision / data
+torchvision>=0.17.0
+Pillow>=10.3.0
+
+# utils
+numpy>=1.25.0
+tqdm>=4.66.0
+PyYAML>=6.0.1
+scikit-learn>=1.3.0

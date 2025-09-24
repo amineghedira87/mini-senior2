@@ -1,0 +1,3 @@
+dataset_slug: mini-senior2-prepared-data
+prepared_work_root: /kaggle/working/mini-senior2_data/prepared
+targets: [bitcoin, tesla, post]
